@@ -1,0 +1,9 @@
+1. Write a program to check whether a string belong to the grammar or not.
+2. Write a program to check whether a string include Keyword or not. 
+3. Write a program to remove left Recursion from a Grammar.
+4. Write a program to perform Left Factoring on a Grammar. 
+5. Write a program to show all the operations of a stack. 
+6. Write a program to find out the leading of the non‐terminals in a grammar
+7. Write a program to Implement Shift Reduce parsing for a String. 
+8. Write a program to find out the FIRST of the Non‐terminals in a grammar. 
+9. Write a program to check whether a grammar is operator precedent. 
